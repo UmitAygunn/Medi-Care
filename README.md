@@ -4,6 +4,8 @@ This project is a private hospital website created using HTML and CSS. It includ
 
 # Demo
 
+![Medi-Care](https://github.com/UmitAygunn/Medi-Care/assets/140657845/e43bf79e-cc21-4986-a907-879feb4de4f4)
+
 Live Demo - Explore the live demo of the private hospital website to access detailed hospital information and experience the design.
 1) https://65338c038b4dfd7a2251f631--harmonious-haupia-e8a0d6.netlify.app/
 
